@@ -1,9 +1,12 @@
 <div align="center">
-
-María del Carmen González
-Software Engineer · Frontend & Full-Stack Development
-Thoughtful interfaces. Reliable engineering. Digital products with purpose.
-Based in Guadalajara, Mexico · Explore my work
+  <h1>María del Carmen González</h1>
+  <p><strong>Software Engineer · Frontend &amp; Full-Stack Development</strong></p>
+  <p>Thoughtful interfaces. Reliable engineering. Digital products with purpose.</p>
+  <p>
+    Based in Guadalajara, Mexico<br>
+    <a href="#selected-public-work">Explore my work</a> ·
+    <a href="https://github.com/MariaCarmen12?tab=repositories">Browse repositories</a>
+  </p>
 </div>
 
 About me
@@ -20,8 +23,10 @@ Engineering	Git, Docker, Jest, Vitest, Agile collaboration
 Selected public work
 Task Management Dashboard
 A React and TypeScript task-management project exploring component-driven UI and application state.
-URL Shortener · Frontend / Backend
+Explore the repository →
+URL Shortener
 A full-stack URL-shortening project with a React client, Node.js/Express API, and SQLite persistence.
+Frontend → · Backend →
 A note on professional work: Much of my recent engineering experience lives in private, team-owned repositories. The projects here are a curated selection of work I can share publicly.
 
 What I enjoy building
@@ -30,8 +35,7 @@ What I enjoy building
 - Connected systems that turn APIs, data, and business requirements into working features.
 - Creative technology at the intersection of software, design, and entrepreneurship.
 <div align="center">
-
-Let's build something meaningful.
-GitHub · Repositories
-<sub>Good products balance engineering, usability, and intention.</sub>
+  <p><strong>Let's build something meaningful.</strong></p>
+  <p><a href="https://github.com/MariaCarmen12?tab=repositories">Explore my repositories</a></p>
+  <sub>Good products balance engineering, usability, and intention.</sub>
 </div>
